@@ -1,1 +1,9 @@
 #DSA
+bhai woh japp.io ka tera pass no. hai kya, mujhe usne LinkedIn peh message kiya tah 2din hue , maine dekha hi nahi
+#RECURSION
+1] n-- Vs --n
+   n-- : First pass n into the function and then it subtracts may lead to infinite RECURSION
+   --n : First Subtracts then passes n into the function 
+2] Whenever you are asked to solve something, digit by digit then use remainder(% last ) and quotient(/ lastout )
+3] The pattern of taking some elements and removing some elements is known as susbset pattern, Then number of subsets exists of string of length n is 2^n
+4] If total length of string is n then its permutation which will exists are n!
